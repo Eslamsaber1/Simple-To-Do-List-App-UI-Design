@@ -21,6 +21,7 @@ User-Centric Input: Enhanced text fields with icons and focused borders for bett
 
 🛠️ Architecture Overview
 The project follows a modular structure for better maintainability:
+
 lib/
 └── features/
     ├── home/       # Task display logic & UI
